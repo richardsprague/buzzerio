@@ -28,3 +28,13 @@ Then visit:
 ```
 http://localhost:8000
 ```
+
+## Next Steps
+
+Ask Claude to help with:
+
+- Turn this into a responsive site with React.
+- Break the site into easily-editable and updatable components.
+- Add correct images.
+- Fine-tune spacing, typography, and animations to better match the original.
+- Set up a simple deployment workflow (e.g., GitHub Pages or Vercel).
